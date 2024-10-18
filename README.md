@@ -2,6 +2,10 @@
 
 Bu proje, Türkiye Cumhuriyeti vatandaşlık numaralarını doğrulamak için kullanılan bir C# uygulamasıdır. Uygulama, Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü'nün sunduğu KPSPublic SOAP servisini kullanarak vatandaşlık doğrulaması yapar.
 
+
+![TcKimlik](https://cdn.karar.com/news/1463174.jpg)
+
+
 ## Özellikler
 
 - Türkiye Cumhuriyeti vatandaşlık numarası (T.C. Kimlik No) doğrulama.
@@ -25,7 +29,7 @@ Bu proje, Türkiye Cumhuriyeti vatandaşlık numaralarını doğrulamak için ku
 - Visual Studio 2019 veya üstü.
 - .NET Framework 4.7.2 veya üstü.
 - DevExpress bileşenlerinin yüklü olması (Deneme sürümü ya da lisanslı versiyon kullanılabilir).
-- KPSPublic SOAP servisine erişim için gerekli bağlantı bilgileri.
+
 
 ### Projeyi Çalıştırma Adımları
 
